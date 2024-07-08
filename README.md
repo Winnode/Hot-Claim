@@ -51,9 +51,10 @@ To start the bot, run the following command:
 
 ```bash
 node run.js
+```
 
 ## Password For those who are interested in joining our community, you can find the password at https://t.me/winsnip.
 
-    ```sh
-    Enter password: ********
-    ```
+```sh
+Enter password: ********
+```
