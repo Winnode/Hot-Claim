@@ -7,6 +7,7 @@ This project is a bot that automates the claiming process for HOT accounts. It s
 - Node.js installed on your machine.
 - HOT account credentials.
 - A Telegram bot token and user ID for notifications.
+- Send Near to multi wallet near
 - To ensure that your NEAR claiming bot verifies that each account has at least 0.001 NEAR before attempting a claim
 ## Setup
 
