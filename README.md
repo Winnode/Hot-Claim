@@ -58,3 +58,14 @@ node run.js
 ```sh
 Enter password: ********
 ```
+## Create Telegram bot api and chat id 
+
+Telegram bot api
+```
+https://t.me/BotFather
+```
+
+chat id 
+```
+https://t.me/GetMyChatID_Bot
+```
