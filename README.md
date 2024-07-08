@@ -50,4 +50,10 @@ This project is a bot that automates the claiming process for HOT accounts. It s
 To start the bot, run the following command:
 
 ```bash
-node index.js
+node run.js
+
+## Password For those who are interested in joining our community, you can find the password at https://t.me/winsnip.
+
+    ```sh
+    Enter password: ********
+    ```
