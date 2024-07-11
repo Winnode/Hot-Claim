@@ -1,0 +1,20 @@
+{
+  "name": "winsnip-hot-claim-bot",
+  "version": "1.0.2",
+  "description": "A bot for claiming rewards and sending NEAR tokens using NEAR protocol",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "near-api-js": "^0.41.0",
+    "moment": "^2.29.4",
+    "crypto": "^1.0.1",
+    "figlet": "^1.5.0",
+    "readline-sync": "^1.4.10",
+    "winston": "^3.3.3",
+    "node-telegram-bot-api": "^0.61.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
