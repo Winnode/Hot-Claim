@@ -25,7 +25,7 @@ This project is a bot that automates the claiming process for HOT accounts. It s
     OR
    
     ```bash
-    npm install near-api-js moment crypto figlet readline-sync winston node-telegram-bot-api
+    npm install near-api-js moment crypto figlet readline-sync winston node-telegram-bot-api base64-arraybuffer
     ```
 
 4. Create a `accounts.txt` file in the project directory. This file should contain the NEAR account credentials in the following format:
