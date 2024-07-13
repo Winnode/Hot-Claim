@@ -1,5 +1,8 @@
 {
   "telegramNotification": true,
-  "telegramBotToken": "7415969xxxxxx",
-  "telegramUserId": "5218xxxxx"
+  "telegramBotToken": "745xxxxxx",
+  "telegramUserId": "5xxxxxx",
+  "rpcUrl": "https://1rpc.io/near",
+  "networkId": "mainnet",
+  "claimContractId": "game.hot.tg"
 }
