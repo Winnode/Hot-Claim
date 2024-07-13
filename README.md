@@ -41,8 +41,11 @@ This project is a bot that automates the claiming process for HOT accounts. It s
     ```json
     {
       "telegramNotification": true,
-      "telegramBotToken": "YOUR_TELEGRAM_BOT_TOKEN",
-      "telegramUserId": "YOUR_TELEGRAM_USER_ID"
+      "telegramBotToken": "745xxxxxx",
+      "telegramUserId": "5xxxxxx",
+      "rpcUrl": "https://1rpc.io/near",
+      "networkId": "mainnet",
+      "claimContractId": "game.hot.tg"
     }
     ```
 
